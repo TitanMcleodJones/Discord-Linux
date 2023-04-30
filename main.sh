@@ -1,0 +1,1 @@
+./squashfs-root/Discord --no-sandbox
